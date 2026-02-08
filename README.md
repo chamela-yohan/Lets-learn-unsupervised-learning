@@ -92,7 +92,7 @@ Sensitive to outliers
 
 📁 Project Structure
 .
-├── kmeans_from_scratch.py
+├── unsupervised-learning.ipynb
 ├── README.md
 
 🚀 Next Steps
